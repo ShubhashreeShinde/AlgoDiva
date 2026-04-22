@@ -111,6 +111,4 @@ NetworkSimulation/
 
 ---
 
-## Authors
 
-- **Shubhashree Shinde** — B.Tech Electronics and Telecommunication Engineering, Cummins College of Engineering for Women, Pune
